@@ -7,7 +7,7 @@ A Service Bot in this context implies bringing an automated self-service via mes
 
 Installing the update set which gives a SDK with visual interaction to create applications on ServiceNow.  Each application will in turn have their own account on the Ushur platform.  While Ushur handles all the engagements with the end user who is involved in the messaging, it also provides via API the ability to launch as well as retrieve ongoing information pertaining to user engagements.  The Ushur ServiceNow SDK generated code for the application takes care of acting for and upon the ServiceNow tables. 
 
-In installing the Ushur ServiceNow SDK which can then lead to creating Ushur Accounts you are agreeing to the terms of service as found in https://ushur.me/tos/ and https://ushur.com/tos/
+In installing the Ushur ServiceNow SDK which can then lead to creating Ushur Accounts you are agreeing to the terms of service as found in https://ushur.com/ushur-terms-of-service/
 
 * Once update sets are loaded onto your ServiceNow instance, the Ushur ServiceNow SDK can be found at: https://yourinstancedomain/usdk/#
 
